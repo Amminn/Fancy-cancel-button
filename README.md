@@ -1,3 +1,4 @@
-#Fancy cancel button ⚡
-Beautiful button with a nice shape and hover biulded using pure HTML & CSS
+<h2>Fancy cancel button ⚡</h2> <br>
+
+Beautiful button with a nice shape and hover using pure HTML & CSS
 
